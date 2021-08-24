@@ -1,6 +1,5 @@
 import random
 greetings=['hola','Hola','Hello!','hello','Hey','hey','hi','Hi','Hello','HELLO']
-
 question1=['How are you?','how are you?','how you doing?','How are you doing?','Whats Up','whats up','How are you going?']
 question2=['What is your name?','what is your name?','WHAT IS YOUR NAME?','Your good name please!',"And You?",'What should i call you?','what should i call you']
 question3=['goodbye','Goodbye','I am leaving','Bye','See you later','see you later','bye']
