@@ -50,10 +50,5 @@ while True:
     elif userInput in question10:
         bot = ['No','no','Try asking something else']
         print('Bot: ', random.choice(bot))
-
-
-
-
-
     else:
         print("I do not understand what you said")
